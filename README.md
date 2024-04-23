@@ -15,7 +15,7 @@
 
 输入用户名
 
-![image](https://github.com/YUYAOP/DataMining/assets/93237252/87873b5a-27a1-43a2-83fe-c2b0d0d779f1)
+![image](https://github.com/YUYAOP/DataMining/assets/93237252/504dd386-bc91-4772-9143-7f27d7fc63d2)
 
 之后输入验证码
 
@@ -57,3 +57,5 @@
 
 ![image](https://github.com/YUYAOP/DataMining/assets/93237252/87ce8a99-a608-4f90-a90f-54c0b2698a16)
 
+## 想要学习的计算机技能
+想要学习一些传统的计算机视觉技术，学习一些除了使用深度神经网络来解决计算机视觉问题的方法。
